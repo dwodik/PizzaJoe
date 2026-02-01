@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PizzaJoe</string>
+    <!--имена экранов-->
+    <string name="start_name">Pizza Joe</string>
+    <string name="choose_size">Выбери размер</string>
+    <string name="choose_quantity">Выбери количество</string>
+    <string name="choose_pickup_date">Выбери дату доставки</string>
+    <string name="order_summary">Итог</string>
+    <!--ррр-->
+    <string name="back_Button">Back</string>
+    <string name="welcome_text">Добро пожаловать в Pizza Joe!</string>
+    <string name="select_pizza">Скорее выбирай и заказывай один из вкуснейших видов пиццы:</string>
+    <string name="subtotal_price">Сумма заказа %s</string>
+    <string name="next">Далее</string>
+    <string name="cancel">Отмена</string>
+    <string name="send">Отправить заказ</string>
+
+    <!--названия пицц-->
+    <string name="margarita">Маргарита</string>
+    <string name="pepperoni">Пепперони</string>
+    <string name="cheeseburger">Чизбургер</string>
+    <string name="meat">Мясная</string>
+    <string name="fourcheese">4 сыра</string>
+    <string name="hunter">Охотник за головами</string>
+    <string name="bbq">Барбекю</string>
+    <string name="summermood">Летнее настроение</string>
+    <string name="spicy">Мексиканская острая</string>
+    <string name="havayi">Гавайская</string>
+
+    <!--размер пицц-->
+    <string name="twenty_five_size">25</string>
+    <string name="thirty_two_size">32</string>
+    <string name="fourty_size">40</string>
+    <string name="size_cm">см</string>
+    <!--количество пицц-->
+    <string name="one_pizza">1</string>
+    <string name="two_pizza">2</string>
+    <string name="three_pizza">3</string>
+    <string name="piece">шт</string>
+
+<!--    <plurals name="pizzas">
+        <item quantity="one">%d пицца</item>
+        <item quantity="other">%d пиццы</item>
+    </plurals>-->
+    <string name="order_details">Вкус: %1$s \nРазмер: %2$s \nКоличество: %3$s \nДата доставки: %4$s \nСтоимость итого: %5$s \n\nСпасибо за заказ!</string>
+    <string name="new_order">Новый заказ</string>
+    <string name="price">Цена: от</string>
+    <string name="flavor">Выбранный вкус</string>
+    <string name="size">Размер</string>
+    <string name="quantity">Количество</string>
+    <string name="pickup_date">Дата доставки</string>
+    <string name="send_order">"Спасибо за заказ! Ожидайте звонка от персонального менеджера для его подтверждения :)</string>
+
+
+
+</resources>
